@@ -11,3 +11,10 @@ n270.py
 Why do you need this?
 -simply there is no need for you to use this script.
 this is simply a simplar way to do this simple thing which windows 11 simply made hard for you to do.
+
+
+To use the file
+first install the requirement packages using
+<code>pip install -r requirements.txt </code>
+then simply run the .py file
+<code> python file_name270.py </code>
